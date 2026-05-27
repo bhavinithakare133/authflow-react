@@ -1,7 +1,9 @@
 function App() {
   return (
-    <div>
-      <h1>AuthFlow App 🚀</h1>
+    <div className="h-screen flex justify-center items-center bg-gray-100">
+      <h1 className="text-4xl font-bold text-blue-600">
+        AuthFlow 🚀
+      </h1>
     </div>
   );
 }
